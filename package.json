@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "노드익스프레스로 서버구현하기",
+  "main": "bin/www.js",
+  "scripts": {
+    "start" : "node bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4thdraw/nodeExpressServer.git"
+  },
+  "keywords": [
+    "노드",
+    "익스프레스",
+    "리액트"
+  ],
+  "author": "방보영",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4thdraw/nodeExpressServer/issues"
+  },
+  "homepage": "https://github.com/4thdraw/nodeExpressServer#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
